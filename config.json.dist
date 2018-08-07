@@ -1,0 +1,14 @@
+{
+    "GitHubCredentials":{
+        "username": "GITHUB PASSWORD",
+        "password": "GITHUB USERNAME",
+        "authToken": "DELETE ME"
+    },
+    "RedditCredentials":{
+        "username":"REDDIT USERNAME",
+        "password":"REDDIT PASSWORD"
+    },
+    "DiscordCredentials":{
+        "authToken":"DISCORD AUTH TOKEN"
+    }
+}
