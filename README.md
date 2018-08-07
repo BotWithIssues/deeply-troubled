@@ -6,6 +6,8 @@ My usecase is for me to run deeply-troubled as a Reddit bot for the [Slide for R
 ### TODO
 
 ```
+[ ] Make user account system
+
 [ ] Write GitHub API code
 
 [ ] Write Reddit API code
